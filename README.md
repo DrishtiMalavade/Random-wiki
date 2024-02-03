@@ -1,7 +1,7 @@
 # Wikipedia Random Article Viewer
 
-This Python script fetches a random Wikipedia article title, displays its summary, and gives you the option to open the full article in your web browser.
-Also handles  DisambiguationError and PageError along with general exceptions with appropriate error messages.
+It fetches a random Wikipedia article title, displays its summary, and gives the option to open the full article in your web browser.
+Error handling such as DisambiguationError and PageError along with general exceptions with appropriate error messages.
 
 ## Features
 - Fetches a random Wikipedia article title.
